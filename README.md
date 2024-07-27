@@ -1,2 +1,2 @@
 # modules
-Terrafor module for alb-asg-ec2
+Terraform module for alb-asg-ec2
